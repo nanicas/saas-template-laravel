@@ -2064,12 +2064,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/nanicas/legacy-laravel-toolkit-library.git",
-                "reference": "196e6bf404632cc7c5824b1218f6314552eb86e0"
+                "reference": "dbb43bac450081ca1855203192c550080ee8e353"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nanicas/legacy-laravel-toolkit-library/zipball/196e6bf404632cc7c5824b1218f6314552eb86e0",
-                "reference": "196e6bf404632cc7c5824b1218f6314552eb86e0",
+                "url": "https://api.github.com/repos/nanicas/legacy-laravel-toolkit-library/zipball/dbb43bac450081ca1855203192c550080ee8e353",
+                "reference": "dbb43bac450081ca1855203192c550080ee8e353",
                 "shasum": ""
             },
             "default-branch": true,
@@ -2101,7 +2101,7 @@
                 "issues": "https://github.com/nanicas/legacy-laravel-toolkit-library/issues",
                 "source": "https://github.com/nanicas/legacy-laravel-toolkit-library/tree/main"
             },
-            "time": "2024-04-21T13:41:17+00:00"
+            "time": "2024-04-22T11:22:03+00:00"
         },
         {
             "name": "nanicas/legacy-laravel-toolkit-view-library",
@@ -2109,12 +2109,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/nanicas/legacy-laravel-toolkit-view-library.git",
-                "reference": "973e54e8cd23cab308ca3c5569f0d3d032fe48cf"
+                "reference": "71a765394192df58e33a331ffad6b9aeda7ab710"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nanicas/legacy-laravel-toolkit-view-library/zipball/973e54e8cd23cab308ca3c5569f0d3d032fe48cf",
-                "reference": "973e54e8cd23cab308ca3c5569f0d3d032fe48cf",
+                "url": "https://api.github.com/repos/nanicas/legacy-laravel-toolkit-view-library/zipball/71a765394192df58e33a331ffad6b9aeda7ab710",
+                "reference": "71a765394192df58e33a331ffad6b9aeda7ab710",
                 "shasum": ""
             },
             "default-branch": true,
@@ -2147,7 +2147,7 @@
                 "issues": "https://github.com/nanicas/legacy-laravel-toolkit-view-library/issues",
                 "source": "https://github.com/nanicas/legacy-laravel-toolkit-view-library/tree/main"
             },
-            "time": "2024-04-21T14:05:39+00:00"
+            "time": "2024-04-22T11:23:43+00:00"
         },
         {
             "name": "nesbot/carbon",
