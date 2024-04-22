@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  saas-test-laravel-final-app:
+    build:
+      context: ./
+      dockerfile: Dockerfile-laravel
+    container_name: saas-test-laravel-final-app
+    ports:
+      - "8006:8000"
+    volumes:
+      - .:/var/www/html
+    environment:
+      - LARAVEL_VERSION=10
+    networks:
+      - database-network-nanicas
+
+networks:
+  database-network-nanicas:
+    external: true
+    name: database-mysql_database-network-nanicas
