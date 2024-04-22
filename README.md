@@ -113,7 +113,7 @@ public/build/assets/app-aaa5687b.js              948.88 kB │ gzip: 315.51 kB
 
 ## Observações
 
-### Chamada da view
+### Chamar uma view
 
 - Link do código sobre `beforeView`: https://github.com/nanicas/legacy-laravel-toolkit-library/blob/main/app/Http/Controllers/Controller.php#L50
 
